@@ -1255,12 +1255,12 @@ color:var(--subtle-background-color);
   
 }  */
 .social-media-cont{
-  margin-left: 120px;
+  /* margin-left: 120px; */
 }
-/* .social-media-item .social-media-list {
+.social-media-item .social-media-list {
   display: flex;
-} */
-/* .social-media-item{
+}
+.social-media-item{
   display: flex;
   margin-top: 16px;
   gap: 16px;
@@ -1270,7 +1270,7 @@ color:var(--subtle-background-color);
   justify-content:center;
   align-items:center;
   
-} */
+}
 .social-icon{
   display:flex;
   justify-content:center;
