@@ -1174,6 +1174,13 @@ letter-spacing: 0.02em;
 color:var(--subtle-background-color);
 
 }
+.social-media-cont{
+  margin-top: 72px;
+  margin-bottom: 72px;
+}
+.footer-form-sub{
+  width: 100%;
+}
 @media screen and (max-width: 767px){
   .footer-list, .social-media-cont, .footer-subs{
      display: flex;
@@ -1186,6 +1193,9 @@ color:var(--subtle-background-color);
   
   .footer-form-input{
       margin-bottom: 16px;
+  }
+  .footer-list{
+    width: 264px;
   }
 }
 
@@ -1292,13 +1302,8 @@ color:var(--subtle-background-color);
   margin-left: 120px;
 }
 }
-/* .social-media-cont{
-  margin-top: 72px;
-  margin-bottom: 72px;
-} */
-.footer-form-sub{
-  width: 100%;
-}
+
+
 /* =============Social media============ */
  /* .container-footer{
    display: flex;
